@@ -131,16 +131,7 @@ body {
     .cityname {
         font-size: 40px;
     }
-    footer{
-    position: fixed;
-    text-align: center;
-    padding: 35px 5px 20px 5px;
-    font-size: x-small;
-    top:90%;
-    right: 20%;
 
-
-  }
 }
 
 footer{
@@ -148,5 +139,9 @@ footer{
     text-align: center;
     padding: 35px 5px 20px 5px;
     font-size: xx-small;
-    font-weight: 100;
+    font-weight:100;
   }
+  .fas{
+   	font-weight: 500;
+   	font-size: medium;
+   }
